@@ -1,0 +1,1875 @@
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: 'hola' }
+[sendQueue_A]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[databaseClass.save]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'services-4',
+  title_list_reply: '4. PQRS'
+}
+[sendQueue_A]:  {
+  ref: 'ans_7d9b1cbc-db1b-4389-acc6-a2d172816633',
+  keyword: 'key_37948748-7b3e-4585-9aac-8ff083b825f9',
+  answer: '¿Ya cuentas con un número de 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc6868b1269775a6d84918037b646306'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_7d9b1cbc-db1b-4389-acc6-a2d172816633',
+  keyword: 'key_37948748-7b3e-4585-9aac-8ff083b825f9',
+  answer: '¿Ya cuentas con un número de 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc6868b1269775a6d84918037b646306'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_7d9b1cbc-db1b-4389-acc6-a2d172816633',
+  keyword: 'key_37948748-7b3e-4585-9aac-8ff083b825f9',
+  answer: '¿Ya cuentas con un número de 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc6868b1269775a6d84918037b646306'
+}
+[databaseClass.save]:  {
+  ref: 'ans_7d9b1cbc-db1b-4389-acc6-a2d172816633',
+  keyword: 'key_37948748-7b3e-4585-9aac-8ff083b825f9',
+  answer: '¿Ya cuentas con un número de 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc6868b1269775a6d84918037b646306'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d9b1cbc-db1b-4389-acc6-a2d172816633',
+  keyword: 'key_37948748-7b3e-4585-9aac-8ff083b825f9',
+  answer: '¿Ya cuentas con un número de 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc6868b1269775a6d84918037b646306'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '2️⃣ No',
+  title_list_reply: undefined
+}
+[sendQueue_A]:  {
+  ref: 'ans_8bdf9098-da92-434e-b11f-d2c3510df7e6',
+  keyword: 'key_7d3d5140-968e-4f1f-a30f-b33e0fbeaad8',
+  answer: '¿Eres Cliente 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da005a0df513d4529d32ba4a0f025088'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_8bdf9098-da92-434e-b11f-d2c3510df7e6',
+  keyword: 'key_7d3d5140-968e-4f1f-a30f-b33e0fbeaad8',
+  answer: '¿Eres Cliente 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da005a0df513d4529d32ba4a0f025088'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_8bdf9098-da92-434e-b11f-d2c3510df7e6',
+  keyword: 'key_7d3d5140-968e-4f1f-a30f-b33e0fbeaad8',
+  answer: '¿Eres Cliente 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da005a0df513d4529d32ba4a0f025088'
+}
+[databaseClass.save]:  {
+  ref: 'ans_8bdf9098-da92-434e-b11f-d2c3510df7e6',
+  keyword: 'key_7d3d5140-968e-4f1f-a30f-b33e0fbeaad8',
+  answer: '¿Eres Cliente 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da005a0df513d4529d32ba4a0f025088'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8bdf9098-da92-434e-b11f-d2c3510df7e6',
+  keyword: 'key_7d3d5140-968e-4f1f-a30f-b33e0fbeaad8',
+  answer: '¿Eres Cliente 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'da005a0df513d4529d32ba4a0f025088'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '2️⃣ No',
+  title_list_reply: undefined
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_fa771d76-66f0-4b8d-9db2-4c9fcfa4b45a',
+  keyword: 'key_425aa051-aad1-4e9d-95d9-ffbd3168794a',
+  answer: 'Elige una opción 👇\n1️⃣ Quejas\n2️⃣ Reclamos\n3️⃣ Sugerencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7d4fcfaf9fffab7d35adc3925122a6ce'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_fa771d76-66f0-4b8d-9db2-4c9fcfa4b45a',
+  keyword: 'key_425aa051-aad1-4e9d-95d9-ffbd3168794a',
+  answer: 'Elige una opción 👇\n1️⃣ Quejas\n2️⃣ Reclamos\n3️⃣ Sugerencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7d4fcfaf9fffab7d35adc3925122a6ce'
+}
+[databaseClass.save]:  {
+  ref: 'ans_fa771d76-66f0-4b8d-9db2-4c9fcfa4b45a',
+  keyword: 'key_425aa051-aad1-4e9d-95d9-ffbd3168794a',
+  answer: 'Elige una opción 👇\n1️⃣ Quejas\n2️⃣ Reclamos\n3️⃣ Sugerencias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7d4fcfaf9fffab7d35adc3925122a6ce'
+}
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: '3' }
+[sendQueue_A]:  {
+  ref: 'ans_4f6559ee-12c2-4ace-ac7a-a478f504f47a',
+  keyword: 'key_00964c9a-37b7-4773-86bf-1610c2da114b',
+  answer: 'Dejanos saber tu sugerencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '80f52b5e4c7f1feddeefc63c7baf083d'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_4f6559ee-12c2-4ace-ac7a-a478f504f47a',
+  keyword: 'key_00964c9a-37b7-4773-86bf-1610c2da114b',
+  answer: 'Dejanos saber tu sugerencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '80f52b5e4c7f1feddeefc63c7baf083d'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_4f6559ee-12c2-4ace-ac7a-a478f504f47a',
+  keyword: 'key_00964c9a-37b7-4773-86bf-1610c2da114b',
+  answer: 'Dejanos saber tu sugerencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '80f52b5e4c7f1feddeefc63c7baf083d'
+}
+[databaseClass.save]:  {
+  ref: 'ans_4f6559ee-12c2-4ace-ac7a-a478f504f47a',
+  keyword: 'key_00964c9a-37b7-4773-86bf-1610c2da114b',
+  answer: 'Dejanos saber tu sugerencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '80f52b5e4c7f1feddeefc63c7baf083d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f6559ee-12c2-4ace-ac7a-a478f504f47a',
+  keyword: 'key_00964c9a-37b7-4773-86bf-1610c2da114b',
+  answer: 'Dejanos saber tu sugerencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '80f52b5e4c7f1feddeefc63c7baf083d'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'adada'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_59fb0fb0-2891-4311-b40c-a1f7ff4379d3',
+  keyword: 'key_f58101d5-7ae4-4239-b847-d91bf66e74af',
+  answer: 'Deseas agregar otro *PQRS*',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7e0e0d0415a14f6c52f25c89bfea31ea'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_59fb0fb0-2891-4311-b40c-a1f7ff4379d3',
+  keyword: 'key_f58101d5-7ae4-4239-b847-d91bf66e74af',
+  answer: 'Deseas agregar otro *PQRS*',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7e0e0d0415a14f6c52f25c89bfea31ea'
+}
+[databaseClass.save]:  {
+  ref: 'ans_59fb0fb0-2891-4311-b40c-a1f7ff4379d3',
+  keyword: 'key_f58101d5-7ae4-4239-b847-d91bf66e74af',
+  answer: 'Deseas agregar otro *PQRS*',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7e0e0d0415a14f6c52f25c89bfea31ea'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '2️⃣ No',
+  title_list_reply: undefined
+}
+[sendProviderAndSave]:  {
+  ref: 'e22c1be6-9612-4247-9653-ca52c640d0ab',
+  keyword: undefined,
+  answer: 'Hemos recibido tu valiosa opinión.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: '2a3d31e1439b4c696b891a5735216771'
+}
+[providerClass.sendMessage]:  {
+  ref: 'e22c1be6-9612-4247-9653-ca52c640d0ab',
+  keyword: undefined,
+  answer: 'Hemos recibido tu valiosa opinión.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: '2a3d31e1439b4c696b891a5735216771'
+}
+[databaseClass.save]:  {
+  ref: 'e22c1be6-9612-4247-9653-ca52c640d0ab',
+  keyword: undefined,
+  answer: 'Hemos recibido tu valiosa opinión.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: '2a3d31e1439b4c696b891a5735216771'
+}
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: 'hola' }
+[sendQueue_A]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[databaseClass.save]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'services-2',
+  title_list_reply: '2. Cambio de productos'
+}
+[sendQueue_A]:  {
+  ref: 'ans_dd74028f-fa65-4b26-b044-afacf0b80691',
+  keyword: 'key_8f3e187e-ff0b-4328-9ef9-7e8467e813ac',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322a000fd1b22e286b4a85e03d36a646'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_dd74028f-fa65-4b26-b044-afacf0b80691',
+  keyword: 'key_8f3e187e-ff0b-4328-9ef9-7e8467e813ac',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322a000fd1b22e286b4a85e03d36a646'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_dd74028f-fa65-4b26-b044-afacf0b80691',
+  keyword: 'key_8f3e187e-ff0b-4328-9ef9-7e8467e813ac',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322a000fd1b22e286b4a85e03d36a646'
+}
+[databaseClass.save]:  {
+  ref: 'ans_dd74028f-fa65-4b26-b044-afacf0b80691',
+  keyword: 'key_8f3e187e-ff0b-4328-9ef9-7e8467e813ac',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322a000fd1b22e286b4a85e03d36a646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dd74028f-fa65-4b26-b044-afacf0b80691',
+  keyword: 'key_8f3e187e-ff0b-4328-9ef9-7e8467e813ac',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322a000fd1b22e286b4a85e03d36a646'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '2️⃣ No',
+  title_list_reply: undefined
+}
+[sendQueue_A]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e221c8d95167817c0a50c75e41b53ada'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e221c8d95167817c0a50c75e41b53ada'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e221c8d95167817c0a50c75e41b53ada'
+}
+[databaseClass.save]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e221c8d95167817c0a50c75e41b53ada'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e221c8d95167817c0a50c75e41b53ada'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'empanada'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  keyword: 'key_0f43d54d-2c88-47f1-b5f1-15938c66a094',
+  answer: 'Envianos una foto o imagen donde podamos ver la fecha de vencimiento ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06a23c9e6c43ae4a2b9e530292f7b88e'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  keyword: 'key_0f43d54d-2c88-47f1-b5f1-15938c66a094',
+  answer: 'Envianos una foto o imagen donde podamos ver la fecha de vencimiento ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06a23c9e6c43ae4a2b9e530292f7b88e'
+}
+[databaseClass.save]:  {
+  ref: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  keyword: 'key_0f43d54d-2c88-47f1-b5f1-15938c66a094',
+  answer: 'Envianos una foto o imagen donde podamos ver la fecha de vencimiento ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06a23c9e6c43ae4a2b9e530292f7b88e'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'dadad'
+}
+[sendQueue_A]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[databaseClass.save]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '1️⃣ Si',
+  title_list_reply: undefined
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  }
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  }
+}
+[databaseClass.save]:  {
+  ref: 'ans_79093aa8-eee8-4808-ab6c-3e009d6f76b9',
+  keyword: 'key_880faba4-d07d-4284-8381-82ae5dde89f5',
+  answer: 'Ingresa tu producto por vencer',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  }
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'dadadad'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  keyword: 'key_0f43d54d-2c88-47f1-b5f1-15938c66a094',
+  answer: 'Envianos una foto o imagen donde podamos ver la fecha de vencimiento ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06a23c9e6c43ae4a2b9e530292f7b88e'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  keyword: 'key_0f43d54d-2c88-47f1-b5f1-15938c66a094',
+  answer: 'Envianos una foto o imagen donde podamos ver la fecha de vencimiento ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06a23c9e6c43ae4a2b9e530292f7b88e'
+}
+[databaseClass.save]:  {
+  ref: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  keyword: 'key_0f43d54d-2c88-47f1-b5f1-15938c66a094',
+  answer: 'Envianos una foto o imagen donde podamos ver la fecha de vencimiento ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06a23c9e6c43ae4a2b9e530292f7b88e'
+}
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: 'adad' }
+[sendQueue_A]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[databaseClass.save]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_83a70d36-8133-421e-bf30-dbf27e6e2e63',
+  keyword: 'ans_64476ce4-9d31-4710-aaae-f3e129fd1a3b',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6b404848462e2423cdb46d56f37243c5'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '2️⃣ No',
+  title_list_reply: undefined
+}
+[sendProviderAndSave]:  {
+  ref: '9f47b9c0-4783-42ba-96ef-2bdd357450ea',
+  keyword: undefined,
+  answer: 'Tu número de caso es el *784*, pronto nos contactaremos con usted estamos verificando 📝.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: 'bd81dda169b8aadc2b16b37567a8187f'
+}
+[providerClass.sendMessage]:  {
+  ref: '9f47b9c0-4783-42ba-96ef-2bdd357450ea',
+  keyword: undefined,
+  answer: 'Tu número de caso es el *784*, pronto nos contactaremos con usted estamos verificando 📝.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: 'bd81dda169b8aadc2b16b37567a8187f'
+}
+[databaseClass.save]:  {
+  ref: '9f47b9c0-4783-42ba-96ef-2bdd357450ea',
+  keyword: undefined,
+  answer: 'Tu número de caso es el *784*, pronto nos contactaremos con usted estamos verificando 📝.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: 'bd81dda169b8aadc2b16b37567a8187f'
+}
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: 'hola' }
+[sendQueue_A]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[databaseClass.save]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1aee710f-34a0-4182-b733-3556dc89b619',
+  keyword: 'key_2c327495-b85c-46f2-9533-d4d2946ae348',
+  answer: 'Hola 👋 soy *Guía Bot* 🤖 de Practipastas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8e09452122e4631de40ef1ac07e02212'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'services-3',
+  title_list_reply: '3. Cambio por Bonos'
+}
+[sendQueue_A]:  {
+  ref: 'ans_2be4679d-db9c-4d2e-a095-621f4ebe58c1',
+  keyword: 'key_357e0e27-c875-4a87-bcfd-2d3fe167ded0',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbbe9fa98d61c543e0fde3b9f936be4a'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_2be4679d-db9c-4d2e-a095-621f4ebe58c1',
+  keyword: 'key_357e0e27-c875-4a87-bcfd-2d3fe167ded0',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbbe9fa98d61c543e0fde3b9f936be4a'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_2be4679d-db9c-4d2e-a095-621f4ebe58c1',
+  keyword: 'key_357e0e27-c875-4a87-bcfd-2d3fe167ded0',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbbe9fa98d61c543e0fde3b9f936be4a'
+}
+[databaseClass.save]:  {
+  ref: 'ans_2be4679d-db9c-4d2e-a095-621f4ebe58c1',
+  keyword: 'key_357e0e27-c875-4a87-bcfd-2d3fe167ded0',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbbe9fa98d61c543e0fde3b9f936be4a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2be4679d-db9c-4d2e-a095-621f4ebe58c1',
+  keyword: 'key_357e0e27-c875-4a87-bcfd-2d3fe167ded0',
+  answer: '¿Tienes un número de caso asignado 🤔 ? ',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbbe9fa98d61c543e0fde3b9f936be4a'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '2️⃣ No',
+  title_list_reply: undefined
+}
+[sendQueue_A]:  {
+  ref: 'ans_4f6ed87e-30fc-472c-a19c-00ea814e8fa6',
+  keyword: 'key_a7637dda-4431-4a22-bdcc-ef7bbded878c',
+  answer: '¿Que productos tiene defectos 🤔 ?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03fc2e7b97ff7bded2410d6143790829'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_4f6ed87e-30fc-472c-a19c-00ea814e8fa6',
+  keyword: 'key_a7637dda-4431-4a22-bdcc-ef7bbded878c',
+  answer: '¿Que productos tiene defectos 🤔 ?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03fc2e7b97ff7bded2410d6143790829'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_4f6ed87e-30fc-472c-a19c-00ea814e8fa6',
+  keyword: 'key_a7637dda-4431-4a22-bdcc-ef7bbded878c',
+  answer: '¿Que productos tiene defectos 🤔 ?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03fc2e7b97ff7bded2410d6143790829'
+}
+[databaseClass.save]:  {
+  ref: 'ans_4f6ed87e-30fc-472c-a19c-00ea814e8fa6',
+  keyword: 'key_a7637dda-4431-4a22-bdcc-ef7bbded878c',
+  answer: '¿Que productos tiene defectos 🤔 ?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03fc2e7b97ff7bded2410d6143790829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f6ed87e-30fc-472c-a19c-00ea814e8fa6',
+  keyword: 'key_a7637dda-4431-4a22-bdcc-ef7bbded878c',
+  answer: '¿Que productos tiene defectos 🤔 ?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03fc2e7b97ff7bded2410d6143790829'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'empanada'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_21d41ed6-44ac-4c14-a4d0-188e67f2ae6e',
+  keyword: 'key_8ab489ff-200c-4dee-b341-21e8e623bab3',
+  answer: '¿Qué defecto presenta el producto? 👇\n' +
+    '1️⃣ Hongo – moho\n' +
+    '2️⃣ Cambio por Rotación\n' +
+    '3️⃣ Partido\n' +
+    '4️⃣ Destapado\n' +
+    '5️⃣ Mal Sellado\n' +
+    '6️⃣ Falta Refrigeración',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  }
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_21d41ed6-44ac-4c14-a4d0-188e67f2ae6e',
+  keyword: 'key_8ab489ff-200c-4dee-b341-21e8e623bab3',
+  answer: '¿Qué defecto presenta el producto? 👇\n' +
+    '1️⃣ Hongo – moho\n' +
+    '2️⃣ Cambio por Rotación\n' +
+    '3️⃣ Partido\n' +
+    '4️⃣ Destapado\n' +
+    '5️⃣ Mal Sellado\n' +
+    '6️⃣ Falta Refrigeración',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  }
+}
+[databaseClass.save]:  {
+  ref: 'ans_21d41ed6-44ac-4c14-a4d0-188e67f2ae6e',
+  keyword: 'key_8ab489ff-200c-4dee-b341-21e8e623bab3',
+  answer: '¿Qué defecto presenta el producto? 👇\n' +
+    '1️⃣ Hongo – moho\n' +
+    '2️⃣ Cambio por Rotación\n' +
+    '3️⃣ Partido\n' +
+    '4️⃣ Destapado\n' +
+    '5️⃣ Mal Sellado\n' +
+    '6️⃣ Falta Refrigeración',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  }
+}
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: '7' }
+[sendProviderAndSave]:  {
+  ref: 'ans_21d41ed6-44ac-4c14-a4d0-188e67f2ae6e',
+  keyword: 'key_8ab489ff-200c-4dee-b341-21e8e623bab3',
+  answer: '\n' +
+    '            Lo siento no te he entendido 😕 ingresa una opcion disponible 👇 \n' +
+    '             1️⃣ Hongo – moho\n' +
+    "            '2️⃣ Cambio por Rotación\n" +
+    "            '3️⃣ Partido\n" +
+    "            '4️⃣ Destapado'\n" +
+    "            '5️⃣ Mal Sellado\n" +
+    "            '6️⃣ Falta Refrigeración",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  from: '573007786993'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_21d41ed6-44ac-4c14-a4d0-188e67f2ae6e',
+  keyword: 'key_8ab489ff-200c-4dee-b341-21e8e623bab3',
+  answer: '\n' +
+    '            Lo siento no te he entendido 😕 ingresa una opcion disponible 👇 \n' +
+    '             1️⃣ Hongo – moho\n' +
+    "            '2️⃣ Cambio por Rotación\n" +
+    "            '3️⃣ Partido\n" +
+    "            '4️⃣ Destapado'\n" +
+    "            '5️⃣ Mal Sellado\n" +
+    "            '6️⃣ Falta Refrigeración",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  from: '573007786993'
+}
+[databaseClass.save]:  {
+  ref: 'ans_21d41ed6-44ac-4c14-a4d0-188e67f2ae6e',
+  keyword: 'key_8ab489ff-200c-4dee-b341-21e8e623bab3',
+  answer: '\n' +
+    '            Lo siento no te he entendido 😕 ingresa una opcion disponible 👇 \n' +
+    '             1️⃣ Hongo – moho\n' +
+    "            '2️⃣ Cambio por Rotación\n" +
+    "            '3️⃣ Partido\n" +
+    "            '4️⃣ Destapado'\n" +
+    "            '5️⃣ Mal Sellado\n" +
+    "            '6️⃣ Falta Refrigeración",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  from: '573007786993'
+}
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: '6' }
+[sendProviderAndSave]:  {
+  ref: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  keyword: 'key_72cd2693-a367-42f6-b28a-3d13cea97363',
+  answer: 'Envianos una imagen del producto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '50814f25ad587c5f482fcdf3cfdeb822'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  keyword: 'key_72cd2693-a367-42f6-b28a-3d13cea97363',
+  answer: 'Envianos una imagen del producto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '50814f25ad587c5f482fcdf3cfdeb822'
+}
+[databaseClass.save]:  {
+  ref: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  keyword: 'key_72cd2693-a367-42f6-b28a-3d13cea97363',
+  answer: 'Envianos una imagen del producto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '50814f25ad587c5f482fcdf3cfdeb822'
+}
+[handleMsg]:  { type: 'text', from: '573007786993', to: '15551013810', body: 'dgdg' }
+[sendQueue_A]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[databaseClass.save]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '1. si',
+  title_list_reply: undefined
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  keyword: 'key_72cd2693-a367-42f6-b28a-3d13cea97363',
+  answer: 'Envianos una imagen del producto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '50814f25ad587c5f482fcdf3cfdeb822'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  keyword: 'key_72cd2693-a367-42f6-b28a-3d13cea97363',
+  answer: 'Envianos una imagen del producto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '50814f25ad587c5f482fcdf3cfdeb822'
+}
+[databaseClass.save]:  {
+  ref: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  keyword: 'key_72cd2693-a367-42f6-b28a-3d13cea97363',
+  answer: 'Envianos una imagen del producto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '50814f25ad587c5f482fcdf3cfdeb822'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '573007786993',
+  to: '15551013810',
+  body: 'dadadad'
+}
+[sendQueue_A]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[sendProviderAndSave]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[providerClass.sendMessage]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[databaseClass.save]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e6979900-f794-457a-8b42-36b3dafb5be5',
+  keyword: 'ans_7527609a-21eb-4c71-9ccf-d840bbace994',
+  answer: '¿Deseas agregar más productos 🤔?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '636667a92dbf62c01e3e709202378a1b'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '573007786993',
+  to: '15551013810',
+  body: '2. no',
+  title_list_reply: undefined
+}
+[sendProviderAndSave]:  {
+  ref: '440e788c-6f94-48ff-b69e-8e8a09ccd582',
+  keyword: undefined,
+  answer: 'Tu número de caso es el *829*, pronto nos contactaremos con usted, estamos verificando 📝.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: '8af2b561f8674279b7216cf2f7769188'
+}
+[providerClass.sendMessage]:  {
+  ref: '440e788c-6f94-48ff-b69e-8e8a09ccd582',
+  keyword: undefined,
+  answer: 'Tu número de caso es el *829*, pronto nos contactaremos con usted, estamos verificando 📝.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: '8af2b561f8674279b7216cf2f7769188'
+}
+[databaseClass.save]:  {
+  ref: '440e788c-6f94-48ff-b69e-8e8a09ccd582',
+  keyword: undefined,
+  answer: 'Tu número de caso es el *829*, pronto nos contactaremos con usted, estamos verificando 📝.',
+  options: { media: null, buttons: [], capture: false, delay: 0 },
+  from: '573007786993',
+  refSerialize: '8af2b561f8674279b7216cf2f7769188'
+}
