@@ -367,76 +367,87 @@ null,
 
 /*flow Pedido*/
 
-async function procesarElementos(matriz,flowDynamic) {
+// async function procesarElementos(matriz,flowDynamic) {
+//     let total = 0;
+//     for (const elemento of matriz) {
+//       const subtotal = elemento.cantidad * elemento.precio;
+//       await flowDynamic(`${elemento.producto} Subtotal : ${elemento.cantidad} x  ${elemento.precio}  =  ${subtotal}`);
+//       console.log(`Producto ${elemento.producto} Subtotal : ${elemento.cantidad} x ${elemento.precio} =  ${subtotal}`);
+//       total += subtotal;
+//     }
+//     return total;
+//   }
+
+
+
+ function procesarElementos(matriz) {
+    let cadena = "";
     let total = 0;
-    for (const elemento of matriz) {
+    matriz.forEach((elemento) => {
       const subtotal = elemento.cantidad * elemento.precio;
-      await flowDynamic(`${elemento.producto} Subtotal : ${elemento.cantidad} x  ${elemento.precio}  =  ${subtotal}`);
-      console.log(`Producto ${elemento.producto} Subtotal : ${elemento.cantidad} x ${elemento.precio} =  ${subtotal}`);
+      cadena += `${elemento.producto} *Subtotal:* ${elemento.cantidad} x ${elemento.precio} =  ${subtotal}\n`;
       total += subtotal;
-    }
-    return total;
+    });
+    matriz.length = 0
+    matrizProduct.length = 0
+    return  {cadena,total};
   }
 
   const flowFinishOrder = addKeyword(["##_FINISH_ORDER"])
-  .addAnswer(["Resumen de tu pedido. ☝️","Su pedido *ha sido tomado*, pero será verificado"],
-  null,
-  async(ctx,{flowDynamic,provider,endFlow})=>{
-      const matriz = [...matrizProduct]
-      const total = await procesarElementos(matriz,flowDynamic)
+  .addAnswer(["Su pedido ha sido tomado pero será verificado"
+],
+null,
+async(ctx,{endFlow})=>{
+    const matriz = [...matrizProduct];
+    const ramdomNumber = Math.floor(Math.random() * 1000) + 1;
+    const {cadena, total} = procesarElementos(matriz)
+    endFlow({body: `Su número de seguimiento es *${ramdomNumber}*\n${cadena} \n *TOTAL*: $ ${total}`})
+}
+)
+  /** 
+const flowFinishOrder = addKeyword(["##_FINISH_ORDER"])
+.addAnswer(["Resumen de tu pedido. ☝️","Su pedido *ha sido tomado*, pero será verificado"],
+null,
+/** 
+async(ctx,{flowDynamic,provider,endFlow})=>{
+    const matriz = [...matrizProduct]
+    let total = 0
+
+    async function procesarElementos(matriz) { 
+
+         matriz.forEach(elemento => {
+        const subtotal = elemento.cantidad * elemento.precio;
+        flowDynamic(`${elemento.producto} Subtotal : ${elemento.cantidad} x  ${elemento.precio}  =  ${elemento.cantidad*elemento.precio}`)
+        console.log(`Producto ${elemento.producto} Subtotal : ${elemento.cantidad} x ${elemento.precio} =  ${elemento.cantidad*elemento.precio}`);
+        total += subtotal;
+        
+      });
+    }
+    procesarElementos(matriz)
+    const ramdomNumber = Math.floor(Math.random() * 1000) + 1;
+    await endFlow({body: `El total de tu pedido es: $ *${total}* Tu número de caso es el *${ramdomNumber}*, pronto nos contactaremos con usted`})
+    matrizProduct.length = 0;
+    matriz.length = 0;
+    /** 
+     matriz.forEach(elemento => {
+        // flowDynamic({body:elemento.producto + ' Subtotal : ' + elemento.cantidad + ' x ' + elemento.precio  + ' = ' + elemento.cantidad*elemento.precio} )
+        flowDynamic(`${elemento.producto} Subtotal : ${elemento.cantidad} x  ${elemento.precio}  =  ${elemento.cantidad*elemento.precio}`)
+        console.log(`Producto ${elemento.producto} Subtotal : ${elemento.cantidad} x ${elemento.precio} =  ${elemento.cantidad*elemento.precio}`);
+        total += elemento.cantidad*elemento.precio;
+        
+      });
+        matrizProduct.length = 0;
+        matriz.length = 0;
+    //   await flowDynamic(`El todal de tu pedido es: ${total}`);
+      
       const ramdomNumber = Math.floor(Math.random() * 1000) + 1;
-      matrizProduct.length = 0;
-      matriz.length = 0;
-  
-      // Como estaba antes cortabas el flujo y no reinicia la matriz
       await endFlow({body: `El total de tu pedido es: $ *${total}* Tu número de caso es el *${ramdomNumber}*, pronto nos contactaremos con usted`})
-     
-         
-  }
-  )
-
-// const flowFinishOrder = addKeyword(["##_FINISH_ORDER"])
-// .addAnswer(["Resumen de tu pedido. ☝️","Su pedido *ha sido tomado*, pero será verificado"],
-// null,
-// /** 
-// async(ctx,{flowDynamic,provider,endFlow})=>{
-//     const matriz = [...matrizProduct]
-//     let total = 0
-
-//     async function procesarElementos(matriz) { 
-
-//          matriz.forEach(elemento => {
-//         const subtotal = elemento.cantidad * elemento.precio;
-//         flowDynamic(`${elemento.producto} Subtotal : ${elemento.cantidad} x  ${elemento.precio}  =  ${elemento.cantidad*elemento.precio}`)
-//         console.log(`Producto ${elemento.producto} Subtotal : ${elemento.cantidad} x ${elemento.precio} =  ${elemento.cantidad*elemento.precio}`);
-//         total += subtotal;
-        
-//       });
-//     }
-//     procesarElementos(matriz)
-//     const ramdomNumber = Math.floor(Math.random() * 1000) + 1;
-//     await endFlow({body: `El total de tu pedido es: $ *${total}* Tu número de caso es el *${ramdomNumber}*, pronto nos contactaremos con usted`})
-//     matrizProduct.length = 0;
-//     matriz.length = 0;
-//     /** 
-//      matriz.forEach(elemento => {
-//         // flowDynamic({body:elemento.producto + ' Subtotal : ' + elemento.cantidad + ' x ' + elemento.precio  + ' = ' + elemento.cantidad*elemento.precio} )
-//         flowDynamic(`${elemento.producto} Subtotal : ${elemento.cantidad} x  ${elemento.precio}  =  ${elemento.cantidad*elemento.precio}`)
-//         console.log(`Producto ${elemento.producto} Subtotal : ${elemento.cantidad} x ${elemento.precio} =  ${elemento.cantidad*elemento.precio}`);
-//         total += elemento.cantidad*elemento.precio;
-        
-//       });
-//         matrizProduct.length = 0;
-//         matriz.length = 0;
-//     //   await flowDynamic(`El todal de tu pedido es: ${total}`);
+        // provider.sendtext(ctx.from, `El todal de tu pedido es: ${total}`)
       
-//       const ramdomNumber = Math.floor(Math.random() * 1000) + 1;
-//       await endFlow({body: `El total de tu pedido es: $ *${total}* Tu número de caso es el *${ramdomNumber}*, pronto nos contactaremos con usted`})
-//         // provider.sendtext(ctx.from, `El todal de tu pedido es: ${total}`)*/
-      
-// //}
+//}
 
-// )
+)
+*/
 
 
 const flowAddMore = addKeyword("##_FLOW_ADDMORE_##")
@@ -459,7 +470,6 @@ async(ctx,{gotoFlow})=>{
         await gotoFlow(flowNewOrder)
     }else{
         await gotoFlow(flowFinishOrder)
-        // pedido esta casi listo (hacer resumen de la  compra y enviar)
     }
 },
 
@@ -472,8 +482,6 @@ async(ctx,{gotoFlow})=>{
     for (let i = 0; i < matrizProduct.length; i++) {
         if (matrizProduct[i].id === cont) {
           matrizProduct[i].cantidad = ctx.body
-          console.log("estoy en monto",matrizProduct[i].producto + " CANTIDAD " +matrizProduct[i].cantidad + " PRECIO "+matrizProduct[i].precio + " ID "+matrizProduct[i].id)
-          console.log("Aca inmprimo la matriz producto ",matrizProduct)
           break;
         }
       }
@@ -586,33 +594,21 @@ async(ctx,{state,gotoFlow,fallBack})=>{
         case '2':
             cont++;
             matrizProduct.push({id:cont, producto: 'X 12 CM-EMPANADA MEDIANA', precio: 3100})
-            // state.update({producto: "X 12 CM-EMPANADA MEDIANA3", precio:3100})
-            // const myState2 = state.getMyState()
-            // console.log(`${myState2.producto} ${myState2.precio}`)
             await gotoFlow(flowAmount)
             break
         case '3':
             cont++;
             matrizProduct.push({id:cont,producto: 'BLANCA-EMPANADA GRANDE 03', precio: 4050})
-            // state.update({producto: "BLANCA-EMPANADA GRANDE 03", precio:4050})
-            // const myState3 = state.getMyState()
-            // console.log(`${myState3.producto} ${myState3.precio}`)
             await gotoFlow(flowAmount)
             break
         case '4':
             cont++;
             matrizProduct.push({id:cont, producto: 'ROJA-EMPANADA GRANDE 01 x 15', precio: 3800})
-            // state.update({producto: "ROJA-EMPANADA GRANDE 01 x 15", precio:3800})
-            // const myState4 = state.getMyState()
-            // console.log(`${myState4.producto} ${myState4.precio}`)
             await gotoFlow(flowAmount)
             break
         case '5':
             cont++;
             matrizProduct.push({id:cont,producto: 'EMPANADA PASABOCA', precio: 2800})
-            // state.update({producto: "EMPANADA PASABOCA", precio:2800})
-            // const myState5 = state.getMyState()
-            // console.log(`${myState5.producto} ${myState5.precio}`)
             await gotoFlow(flowAmount)
             break
         default:
